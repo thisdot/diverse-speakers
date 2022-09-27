@@ -137,25 +137,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Ghana
 
 
-
-
-
-
----
-### Location Unknown
-
-#### Darshita Chaturvedi
-- [@darshitac_](https://twitter.com/darshitac_)
-- Topics - Progressive Web Apps
-
-#### Awula Dev
-- [@AwulaDev](https://twitter.com/AwulaDev)
-
-#### Faith
-- [@faithcodes23](https://twitter.com/faithcodes23)
-- Topic - JavaScript
-
-
 ## Contributing
 
 Add yourself or others by submitting a PR!
