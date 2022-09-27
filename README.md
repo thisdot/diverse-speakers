@@ -1,2 +1,158 @@
 # diverse-speakers
-This is a list of diverse speakers that speak at conferences and meetups!
+This is a list of diverse tech speakers & organizers. Please submit a PR if you'd like to add yourself or add others!
+
+Also included in this list is a list of people who would LIKE to get involved & a list of PEOPLE that would like to help and mentor.
+
+--
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Code of Conduct](#code-of-conduct)
+- [Speakers](#speakers)
+  - [United States](#united-states)
+  - [Canada](#canada)
+  - [Colombia](#colombia)
+  - [Europe](#europe)
+  - [India](#india)
+  - [Lebanon](#lebanon)
+  - [Nigeria](#nigeria)
+  - [Ghana](#ghana)
+  - [South Africa](#south-africa)
+  - [Asia](#asia)
+  - [Argentina](#argentina)
+  - [Australia](#australia)
+- [Organizers](#organizers)
+  - [United States](#united-states-1)
+  - [Canada](#canada-1)
+  - [Colombia](#colombia)
+  - [Argentina](#argentina-1)
+  - [Nigeria](#nigeria-1)
+  - [Europe](#europe-1)
+  - [Brazil](#brazil)
+  - [Asia](#asia-1)
+  - [Australia](#australia)
+  - [Colombia](#colombia)
+- [Mentors](#mentors)
+  - [United States](#united-states-2)
+  - [India](#india-1)
+  - [Europe](#europe-2)
+  - [Asia](#asia-2)
+  - [Australia](#australia)
+  - [Mexico](#mexico)
+  - [Colombia](#colombia)
+- [Getting Started](#getting-started)
+  - [United States](#united-states-3)
+  - [Europe](#europe-3)
+  - [India](#india-2)
+  - [Nigeria](#nigeria-2)
+  - [Australia](#australia)
+  - [Colombia](#colombia)
+- [Contributing](#contributing)
+  - [Formatting](#formatting)
+
+---
+
+## Code of Conduct
+
+If anyone is reported as malicious or making others feel uncomfortable, they may be removed from this list.
+
+## Speakers
+
+### United States
+
+#### Jasmine Vo
+- [@jasminepvodev](https://twitter.com/jasminepvodev)
+- [Web Link](jasminepvo.netlify.app)
+- Topics - Women in Tech, Frontend
+- Location - Atlanta, GA
+
+#### Ilolo
+- [@iloloizu](https://twitter.com/iloloizu)
+- [WebLink](https://linktr.ee/ilolo)
+- Location - Houston, TX
+
+#### Daysired
+- [@daysireddejesus](https://twitter.com/daysireddejesus)
+- Topics - AI, Robotics, Women
+- Location - New York City
+
+#### Ash Banaszek
+- [@AshBanaszek](https://twitter.com/AshBanaszek)
+- [LinkedIn](http://linkedin.com/in/ashmb)
+- Location - Nebraska, USA
+
+#### Grace
+- [@codebygrace](https://twitter.com/codebygrace)
+- Topics - Women
+- Location - United States
+
+#### Leetl
+- [@leetldev](https://twitter.com/leetldev)
+- Topics - HTML, CSS and JavaScript
+- Location - California, USA
+
+#### Travell Williams
+- [@_trlwilliams](https://twitter.com/_trlwilliams)
+
+#### 
+
+#### Darshita Chaturvedi
+- [@darshitac_](https://twitter.com/darshitac_)
+- Topics - Progressive Web Apps
+#### Naomi Smith
+- [@thenewCoder](https://twitter.com/thenewCoder)
+- [GitHub](https://github.com/smithnaomi)
+- Topic - Full Stack Developer, JavaScript
+- Location - Wake Forest, NC
+
+#### Jessica
+- [@jess_coding](https://twitter.com/jess_coding)
+- Topics - Women
+- Location - Boston, MA
+### Nigeria
+
+#### Neibo Augustine
+- [@neiboaustine](https://twitter.com/neiboaustine)
+- Topics - Frontend Developer, WordPress, Data Analyst with Python
+- Location - Abuja, Nigeria
+
+#### Funmi V
+- [@FunmiVanessa](https://twitter.com/FunmiVanessa)
+- Topics - Web3
+- Location - Abuja, Nigeria
+
+
+
+### Canada
+#### Reika F.
+- [@reikafujimura](https://twitter.com/reikafujimura)
+- [reikafujimura.com](https://www.reikafujimura.com/)
+- Topics - Python, SQL, Data Science, Machine Learning, MLOps, DevOps, Analytics
+- Location - Ontario, Canada
+
+### Ghana
+#### Vidette
+- [@videtteadjor](https://twitter.com/videtteadjor)
+- Location - Ghana
+
+
+## Contributing
+
+Add yourself or others by submitting a PR!
+
+### Formatting
+
+Please add yourself alphabetically, per region.
+
+> Speakers
+
+```markdown
+#### Full Name (First, Last)
+
+- [@TwitterHandle](http://twitter.com)
+- [Personal Website](http://www.examplewebsitelink.com)
+- Topics - Topic 1, Topic 2, Topic 3
+- Location - City, State, Country
+- Languages besides English - List here
+```
