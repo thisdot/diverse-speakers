@@ -1,8 +1,6 @@
 # diverse-speakers
 This is a list of diverse tech speakers & organizers. Please submit a PR if you'd like to add yourself or add others!
 
-Also included in this list is a list of people who would LIKE to get involved & a list of PEOPLE that would like to help and mentor.
-
 --
 
 ## Table of Contents
