@@ -120,7 +120,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Web3
 - Location - Abuja, Nigeria
 
-
+#### Stephen Edache Paul
+- [@iamStepaul](https://twitter.com/iamStepaul)
+- [counsellordev.netlify.app/](https://counsellordev.netlify.app/)
+- Topics - Web Development, Flutter, Open Source, Community, Self - Promotion
+- Location - Lokoja, Kogi State, Nigeria
 
 ### Canada
 #### Reika F.
