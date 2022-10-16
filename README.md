@@ -133,6 +133,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Python, SQL, Data Science, Machine Learning, MLOps, DevOps, Analytics
 - Location - Ontario, Canada
 
+### Europe
+#### Suze Shardlow
+- [@SuzeShardlow](https://twitter.com/SuzeShardlow)
+- [suze.dev](https://suze.dev/)
+- Topics - Tech Leadership, Developer Relations, Developer Community, Negotiation and Influencing
+- Location - United Kingdom
+
 ### Ghana
 #### Vidette
 - [@videtteadjor](https://twitter.com/videtteadjor)
