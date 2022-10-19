@@ -91,7 +91,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - California, USA
 
 #### Nerando Johnson
--[@nerajno](https://twitter.com/nerajno)
+- [@nerajno](https://twitter.com/nerajno)
 - Topics - Community, Learning, see also [this link](https://sessionize.com/Nerajno/)
 - [WebLink](https://developingdvlpr.com/)
 - Location - Atlanta, GA, USA
